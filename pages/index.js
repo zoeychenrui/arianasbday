@@ -78,7 +78,7 @@ const HomePage = () => {
         { src: '/oweek1.jpg', alt: 'oweek1' },
         { src: '/oweek2.JPG', alt: 'oweek2' },
       ],
-      text: 'Since day 1 of this crazy chapter of life called college',
+      text: 'Since day 1 of this crazy chapter of life called college 💙',
     },
     {
       images: [
