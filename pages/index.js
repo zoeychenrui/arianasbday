@@ -68,46 +68,46 @@ const HomePage = () => {
     },
     {
       images: [
-        { src: '/grocery.jpg', alt: 'food' },
-        { src: '/arianalab.jpg', alt: 'relax' },
+        { src: '/grocery.jpg', alt: 'grocery' },
+        { src: '/arianalab.JPG', alt: 'lab' },
       ],
       text: 'Today, we hope you think about all the things that bring you joy ✨',
     },
     {
       images: [
-        { src: '/oweek1.jpg', alt: 'food' },
-        { src: '/oweek2.jpg', alt: 'relax' },
+        { src: '/oweek1.jpg', alt: 'oweek1' },
+        { src: '/oweek2.JPG', alt: 'oweek2' },
       ],
       text: 'Since day 1 of this crazy chapter of life called college',
     },
     {
       images: [
-        { src: '/gals3.jpg', alt: 'fam' },
-        { src: '/gals1.jpg', alt: 'tree' },
-        { src: '/gals2.jpg', alt: 'mountain' },
+        { src: '/gals3.jpg', alt: 'gals1' },
+        { src: '/gals1.jpg', alt: 'gals2' },
+        { src: '/gals2.jpg', alt: 'gals3' },
       ],
       text: 'Fated 4 gals have stuck together through thick and thin. We love you very much 😘',
     },
     {
       images: [
-        { src: '/gals4.jpg', alt: 'sunflower' },
-        { src: '/party2.jpg', alt: 'sunset' },
+        { src: '/gals4.jpg', alt: 'gals4' },
+        { src: '/party2.jpg', alt: 'bdaycakce' },
    
       ],
       text: "In <year, we've already done so much of life together 🌻",
     },
     {
       images: [
-        { src: '/study1.jpg', alt: 'baby' },
-        { src: '/study2.jpg', alt: 'adult' },
-        { src: '/party.jpg', alt: 'adult' },
+        { src: '/study1.jpg', alt: 'study1' },
+        { src: '/study2.jpg', alt: 'study2' },
+        { src: '/party.jpg', alt: 'party' },
       ],
       text: 'Whether we study or party',
     },
     {
       images: [
-        { src: '/arianadoctor.jpg', alt: 'baby' },
-        { src: '/advocate.png', alt: 'adult' },
+        { src: '/arianadoctor.jpg', alt: 'doctor' },
+        { src: '/advocate.png', alt: 'advocate' },
       ],
       text: 'Our physician scientist, advocate, girlboss who pours her heart into what matters, lighting up the world ✨',
     },
